@@ -18,4 +18,4 @@
 
 ### 📫 How to reach me
 - <img src="https://image.flaticon.com/icons/svg/889/889147.svg" width="17px"> [arufian_b](https://twitter.com/arufian_b)
-- <img src="https://image.flaticon.com/icons/svg/124/124011.svg" width="17px"> [Alfian Busyro](https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8F-alfian-b-43b26b17//)
+- <img src="https://image.flaticon.com/icons/svg/124/124011.svg" width="17px"> [Alfian Busyro](https://www.linkedin.com/in/alfian-b-43b26b17/)
