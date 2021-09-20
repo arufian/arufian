@@ -5,6 +5,8 @@
   I'm a demo engineer at <a href="https://github.com/salesforce">Salesforce</a>.
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arufian&hide=html&layout=compact)
+
 ### 🌱 A bit about me
 - A [JavaScript](https://www.ecma-international.org/ecma-262/) and [web performance](https://web.dev/measure/) addict.
 - Love to do outdoor activities, especially mountaineering and climbing.
