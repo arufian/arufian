@@ -2,7 +2,6 @@
 
 <p align="center">
   <samp>I'm <ruby><rb>A</rb><rt>ア</rt><rb>l</rb><rt>ル</rt><rb>fi</rb><rt>フィ</rt><rb>a</rb><rt>ア</rt><rb>n</rb><rt>ン</rt></ruby></samp>. People like to call me Aru（アル）<br />
-  I'm a demo engineer at <a href="https://github.com/salesforce">Salesforce</a>.
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arufian&hide=html&layout=compact)
