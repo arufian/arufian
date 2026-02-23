@@ -4,8 +4,6 @@
   <samp>I'm <ruby><rb>A</rb><rt>ア</rt><rb>l</rb><rt>ル</rt><rb>fi</rb><rt>フィ</rt><rb>a</rb><rt>ア</rt><rb>n</rb><rt>ン</rt></ruby></samp>. People like to call me Aru（アル）<br />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arufian&hide=html&layout=compact)
-
 ### 🌱 A bit about me
 - A [JavaScript](https://www.ecma-international.org/ecma-262/) and [web performance](https://web.dev/measure/) addict.
 - Love to do outdoor activities, especially mountaineering and climbing.
