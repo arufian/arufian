@@ -9,7 +9,7 @@
 - Love to do outdoor activities, especially mountaineering and climbing.
 
 ### ⚡️ A bit about my interest
-- [Puppeteer](https://github.com/puppeteer/puppeteer)
+- AI (Artificial Intelegence) and RAG (Retrieval Augmented Generation)
 - [Rust](https://github.com/rust-lang/rust)
 - Automation
 - [Progressive Web App](https://web.dev/progressive-web-apps/)
