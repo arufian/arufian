@@ -18,3 +18,5 @@
 ### 📫 How to reach me
 - twitter: [arufian_b](https://twitter.com/arufian_b)
 - linkedin: [Alfian Busyro](https://www.linkedin.com/in/alfian-b-43b26b17/)
+
+![](https://komarev.com/ghpvc/?username=arufian)
